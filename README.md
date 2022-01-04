@@ -1,1 +1,1 @@
-No requiere dependencian a instalar
+No requiere dependencian a instalar, solo descomprimir en carpeta
